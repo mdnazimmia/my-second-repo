@@ -1,0 +1,32 @@
+body {
+    font-family: 'Gulzar', serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.link-button {
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    border-radius: 30px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 3%;
+}
+
+.half-width-img {
+    width: 50%;
+    height: 10%;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 40px;
+}
